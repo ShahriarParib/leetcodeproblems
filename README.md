@@ -1,2 +1,2 @@
 # leetcodeproblems
-The problem i have solved on leetcode
+The problems i have solved on leetcode
