@@ -20,6 +20,7 @@ The problems i have solved on leetcode
 ## Graph
 |  |
 | ------- |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/28483938/leetcodeproblems/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2379-maximum-total-importance-of-roads](https://github.com/28483938/leetcodeproblems/tree/master/2379-maximum-total-importance-of-roads) |
 ## Sorting
 |  |
@@ -29,4 +30,8 @@ The problems i have solved on leetcode
 |  |
 | ------- |
 | [2379-maximum-total-importance-of-roads](https://github.com/28483938/leetcodeproblems/tree/master/2379-maximum-total-importance-of-roads) |
+## Union Find
+|  |
+| ------- |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/28483938/leetcodeproblems/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 <!---LeetCode Topics End-->
