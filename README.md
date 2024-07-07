@@ -38,8 +38,17 @@ The problems i have solved on leetcode
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/28483938/leetcodeproblems/tree/master/1642-water-bottles) |
+| [2481-strictly-palindromic-number](https://github.com/28483938/leetcodeproblems/tree/master/2481-strictly-palindromic-number) |
 ## Simulation
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/28483938/leetcodeproblems/tree/master/1642-water-bottles) |
+## Two Pointers
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/28483938/leetcodeproblems/tree/master/2481-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/28483938/leetcodeproblems/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
