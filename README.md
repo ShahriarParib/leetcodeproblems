@@ -34,4 +34,12 @@ The problems i have solved on leetcode
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/28483938/leetcodeproblems/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Math
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/28483938/leetcodeproblems/tree/master/1642-water-bottles) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/28483938/leetcodeproblems/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
