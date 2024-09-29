@@ -51,4 +51,12 @@ The problems i have solved on leetcode
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/28483938/leetcodeproblems/tree/master/2481-strictly-palindromic-number) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/28483938/leetcodeproblems/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/28483938/leetcodeproblems/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
