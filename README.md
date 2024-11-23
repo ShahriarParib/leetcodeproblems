@@ -46,6 +46,7 @@ The problems i have solved on leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/28483938/leetcodeproblems/tree/master/0283-move-zeroes) |
 | [2481-strictly-palindromic-number](https://github.com/28483938/leetcodeproblems/tree/master/2481-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -55,6 +56,7 @@ The problems i have solved on leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/28483938/leetcodeproblems/tree/master/0001-two-sum) |
+| [0283-move-zeroes](https://github.com/28483938/leetcodeproblems/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
