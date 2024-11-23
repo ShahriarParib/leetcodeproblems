@@ -43,11 +43,13 @@ The problems i have solved on leetcode
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/28483938/leetcodeproblems/tree/master/1642-water-bottles) |
+| [2551-apply-operations-to-an-array](https://github.com/28483938/leetcodeproblems/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/28483938/leetcodeproblems/tree/master/0283-move-zeroes) |
 | [2481-strictly-palindromic-number](https://github.com/28483938/leetcodeproblems/tree/master/2481-strictly-palindromic-number) |
+| [2551-apply-operations-to-an-array](https://github.com/28483938/leetcodeproblems/tree/master/2551-apply-operations-to-an-array) |
 ## Brainteaser
 |  |
 | ------- |
@@ -57,6 +59,7 @@ The problems i have solved on leetcode
 | ------- |
 | [0001-two-sum](https://github.com/28483938/leetcodeproblems/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/28483938/leetcodeproblems/tree/master/0283-move-zeroes) |
+| [2551-apply-operations-to-an-array](https://github.com/28483938/leetcodeproblems/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
